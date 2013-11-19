@@ -1,0 +1,17 @@
+body {
+  background-color: #000000;
+}
+
+#console {
+  font-family: courier, monospace;
+  color: #00FF00;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 1.2rem;
+}
+
+a {
+  color: #FF0000;
+  text-decoration: none;
+}

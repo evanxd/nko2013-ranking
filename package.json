@@ -1,0 +1,14 @@
+{
+  "name": "nko2013-vote-score",
+  "version": "0.0.1",
+  "author": "evanxd",
+  "scripts": {
+    "start": "./index.js"
+  },
+  "main": "index.js",
+  "start": "node index.js",
+  "devDependencies": {
+    "cheerio": "0.12.4",
+    "request": "2.27.0"
+  }
+}
